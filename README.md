@@ -1,4 +1,4 @@
-\# 📱 Mobile Sales Analytics Dashboard
+📱 Mobile Sales Analytics Dashboard
 
 
 
@@ -10,19 +10,7 @@ A complete end-to-end Data Analytics project built using \*\*Power BI\*\* and \*
 
 
 
-\## 🎥 Dashboard Demo
-
-
-
-!\[Dashboard Demo](Dashboard%20Screenshots/Dashboard\_Demo.gif)
-
-
-
-\---
-
-
-
-\## 📸 Dashboard Overview
+📸 Dashboard Overview
 
 
 
@@ -34,7 +22,7 @@ A complete end-to-end Data Analytics project built using \*\*Power BI\*\* and \*
 
 
 
-\## 🍎 Brand Analysis
+🍎 Brand Analysis
 
 
 
@@ -46,7 +34,7 @@ A complete end-to-end Data Analytics project built using \*\*Power BI\*\* and \*
 
 
 
-\## 📍 Regional Analysis
+📍 Regional Analysis
 
 
 
@@ -58,7 +46,7 @@ A complete end-to-end Data Analytics project built using \*\*Power BI\*\* and \*
 
 
 
-\## 📌 Project Overview
+📌 Project Overview
 
 
 
@@ -82,7 +70,7 @@ This project focuses on analyzing mobile phone sales transactions to derive mean
 
 
 
-\## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 
 
@@ -100,7 +88,7 @@ This project focuses on analyzing mobile phone sales transactions to derive mean
 
 
 
-\## 📊 Dashboard Features
+📊 Dashboard Features
 
 
 
@@ -126,7 +114,7 @@ This project focuses on analyzing mobile phone sales transactions to derive mean
 
 
 
-\## 📂 Project Structure
+📂 Project Structure
 
 
 
@@ -156,7 +144,7 @@ Mobile-Sales-Analytics/
 
 
 
-\## 🧠 SQL Concepts Covered
+🧠 SQL Concepts Covered
 
 
 
@@ -186,7 +174,7 @@ Mobile-Sales-Analytics/
 
 
 
-\## 💡 Business Insights
+💡 Business Insights
 
 
 
@@ -198,7 +186,7 @@ Detailed business insights are available in \*\*Insights.md\*\*.
 
 
 
-\## 🚀 Future Improvements
+🚀 Future Improvements
 
 
 
