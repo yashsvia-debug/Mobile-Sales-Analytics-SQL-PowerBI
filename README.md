@@ -4,21 +4,15 @@ A complete end-to-end Data Analytics project built using **Power BI** and **MySQ
 
 ---
 
+## 🎥 Dashboard Demo
+
+![Dashboard Demo](Dashboard%20Screenshots/Dashboard_Demo.gif)
+
+---
+
 ## 📸 Dashboard Overview
 
 ![Overview](Dashboard%20Screenshots/01_Overview.png)
-
----
-
-## 🍎 Brand Analysis
-
-![Brand Analysis](Dashboard%20Screenshots/02_Brand_Analysis_Apple.png)
-
----
-
-## 📍 Regional Analysis
-
-![Regional Analysis](Dashboard%20Screenshots/03_City_Analysis_Delhi.png)
 
 ---
 
